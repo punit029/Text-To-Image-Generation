@@ -33,21 +33,27 @@ A sleek, responsive Next.js app that turns text prompts into AI-generated images
    ```bash
    git clone https://github.com/punit029/Text-To-Image-Generation.git
    cd Text-To-Image-Generation
-🧪 Getting Started
-🔧 Install Dependencies
-npm install
-⚙️ Configure Environment
+
+
+2. ## 🔧 Install Dependencies
+    
+       npm install
+
+## ⚙️ Configure Environment
+
 If your project uses environment variables:
 
 Create a .env.local file:
 cp .env.local.example .env.local
 Add your AI service API key and other necessary configurations inside .env.local.
 
-▶️ Run Locally
-npm run dev
+## ▶️ Run Locally
+
+     npm run dev
 Then open http://localhost:3000 in your browser.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
+
 Prompt history with re-run capability
 
 Style presets (e.g., Oil painting, Pixel art, Watercolor)
@@ -56,14 +62,11 @@ Download & share buttons for generated images
 
 Drag-and-drop inpainting with user-uploaded images
 
-📚 Credits
+## 📚 Credits
+
 © 2025 Global Institute of Technology, Jaipur
+
 Mentor: Mr. Manish Kumar Jha
-Made by: Punit Kumar · Tushar Sharma · Vinay Kumar Jha · Justin Tirkey
-Download & share buttons under each image
-
-Drag-and-drop inpainting with user uploads
-
-© 2025 Global Institute of Technology, Jaipur — Mentor: Mr. Manish Kumar Jha
 
 Made by: Punit Kumar · Tushar Sharma · Vinay Kumar Jha · Justin Tirkey
+
