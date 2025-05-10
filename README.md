@@ -55,4 +55,5 @@ Download & share buttons under each image
 Drag-and-drop inpainting with user uploads
 
 © 2025 Global Institute of Technology, Jaipur — Mentor: Mr. Manish Kumar Jha
+
 Made by: Punit Kumar · Tushar Sharma · Vinay Kumar Jha · Justin Tirkey
